@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "AfkForever",
+    "password": "207207",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "PAKPLAYZYT.aternos.me",
+    "port": 50205,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "207207"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,9 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a Afk Bot to keep the server 24/7"
       ]
     },
     "chat-log": true,
